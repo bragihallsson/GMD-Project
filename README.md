@@ -2,7 +2,7 @@
 Gaming Development Project - Sand Soaker
 
 
-Link to YT video demonstration: 
+Link to YT video demonstration: https://youtu.be/ktD6TlLXSPI
 
 USED ASSETS
 2D Jungle Side-Scrolling Platformer Pack
